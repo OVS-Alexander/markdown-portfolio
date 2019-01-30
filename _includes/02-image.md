@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of DOVS](https://www.ovs.cuhk.edu.hk/wp-content/uploads/2017/12/header-logo.png
